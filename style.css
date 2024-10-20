@@ -72,6 +72,7 @@ button:hover{
     border-right-color: var(--main-hoverColor1);
     border-left-color: var(--main-color2);
     border-bottom-color: var(--main-color2);
+    cursor: pointer;
 }
 .cont {
     position: relative;
